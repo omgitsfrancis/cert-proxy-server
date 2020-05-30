@@ -1,0 +1,15 @@
+{
+  "name": "cert-proxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "http-proxy": "^1.18.1"
+  }
+}
